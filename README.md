@@ -1,7 +1,13 @@
-### Yo Yo whassup? I'm LilSmilee and that's my profile ✨
-- I've become a slave of gacha games, souls-like games  and those goofy fighting games
-- I like to read books and mangas, I'm really into Noragami lately
-- I love the automotive world, from the OG drift machine Nissan fairlady 240z till that fatty rear of the Lamborghini Murciélago
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/127854901/226980020-19e1fd76-fd1b-4319-8877-9cb410d20ab3.gif"/>
+</p>
+
+<h1 align="center"> Yo Yo whassup? I'm LilSmilee and that's my profile ✨<h1>
+
+### - I've become a slave of gacha games, souls-like games  and those goofy fighting games
+### - I like to read books and mangas, I'm really into Noragami lately
+### - I love the automotive world, from the OG drift machine Nissan fairlady 240z till that fatty rear of the Lamborghini Murciélago
+
 ### If you wanna know more, follow me or contact me in:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-silveira-1451b4212/)
