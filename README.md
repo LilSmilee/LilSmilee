@@ -5,7 +5,7 @@
 <h1 align="center"> Yo Yo whassup? I'm LilSmilee and that's my profile ✨<h1>
 
 #### - I'm currently investing my time in learning more about system analysis and development 
-#### - I like to read books and mangas, I'm really into Noragami lately 
+#### - I enjoy reading books and mangas, I'm really into Noragami lately 
 #### - I love the automotive world, from the OG drift machine Nissan fairlady 240z till that fatty rear of the Lamborghini Murciélago
 ![cat typing](https://user-images.githubusercontent.com/127854901/226991546-cf664894-6549-4e49-a6ee-bb53fdc28dce.gif)
 ![ayato](https://user-images.githubusercontent.com/127854901/226992967-9768597d-39bb-4974-84a0-731cc9700975.gif)
