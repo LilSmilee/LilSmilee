@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/127854901/226989650-d5718ad8-f736-437a-b54f-6facda6d8e94.gif"/>
 </p>
 
-<h1 align="center"> Salve! Aqui é Matheus e esse é meu perfil ✨<h1>
+<h1 align="center"> Salve! Aqui é o Matheus e esse é meu perfil ✨<h1>
   
   ## Sobre Mim:
   ##### - 19y
