@@ -2,14 +2,14 @@
   <img src="https://user-images.githubusercontent.com/127854901/226989650-d5718ad8-f736-437a-b54f-6facda6d8e94.gif"/>
 </p>
 
-<h1 align="center"> Salve! Aqui é o Matheus e esse é meu perfil ✨<h1>
+<h1 align="center"> Aqui é o Matheus e este é o meu perfil ✨<h1>
   
   ![LilSmilee's GitHub stats](https://github-readme-stats.vercel.app/api?username=LilSmilee&show_icons=true&theme=dracula)
   
   ## Sobre Mim:
-  ##### - 19y
-  ##### - Curitiba - PR
-  ##### - Análise e Desenvolvimento de Sistemas - Unicesumar 1/4
+  ##### - Tenho 19 anos
+  ##### - Atualmente moro em Curitiba - PR
+  ##### - Estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar (semestre 1 de 4)
   ##### - Git, GitHub e conhecimentos básicos de Python e Linux
   &nbsp;
   ### Com os cursos da Udemy fornecidos pela Compass UOL já obtive conhecimentos do básico ao avançado em:
@@ -22,8 +22,6 @@
 #### Sou fã da série Final Fantasy, da Hoyoverse, do Yu-Gi-OH! e mais um monte de jogos
 #### Gosto de livros e mangás, ultimamente tenho lido Noragami e CDZ: The Lost Canvas
 #### Também gosto muito do mundo automotivo, desde um opala véio até a maravilha automotiva da Lamborghini Countach lp 800-4
-![ayato](https://user-images.githubusercontent.com/127854901/226992967-9768597d-39bb-4974-84a0-731cc9700975.gif) 
-
 
 
 
