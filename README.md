@@ -14,9 +14,10 @@
   &nbsp;
   ### Com os cursos da Udemy fornecidos pela Compass UOL já obtive conhecimentos do básico ao avançado em:
   ##### - Git & GitHub
-  ##### - Linux
-  #### Aprendizados em andamento:
+  ##### - Administração de Sistemas GNU/Linux
   ##### - SQL
+  #### Aprendizados em andamento:
+  ##### - Big Data Fundamentos 3.0
   &nbsp;
 
 #### Sou fã da série Final Fantasy, da Hoyoverse, do Yu-Gi-OH! e mais um monte de jogos
