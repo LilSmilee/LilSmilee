@@ -7,17 +7,17 @@
   ![LilSmilee's GitHub stats](https://github-readme-stats.vercel.app/api?username=LilSmilee&show_icons=true&theme=dracula)
   
   ## Sobre Mim:
-  ##### - Tenho 19 anos
-  ##### - Atualmente moro em Curitiba - PR
-  ##### - Estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar (semestre 1 de 4)
-  ##### - Git, GitHub e conhecimentos básicos de Python e Linux
+  #### - Tenho 19 anos
+  #### - Atualmente moro em Curitiba - PR
+  #### - Estou cursando Análise e Desenvolvimento de Sistemas na Unicesumar (semestre 1 de 4)
+  #### - Git, GitHub e conhecimentos básicos de Python e Linux
   &nbsp;
   ### Com os cursos da Udemy fornecidos pela Compass UOL já obtive conhecimentos do básico ao avançado em:
-  ##### - Git & GitHub
-  ##### - Administração de Sistemas GNU/Linux
-  ##### - SQL
-  #### Aprendizados em andamento:
-  ##### - Big Data Fundamentos 3.0
+  #### - Git & GitHub
+  #### - Administração de Sistemas GNU/Linux
+  #### - SQL
+  ### Aprendizados em andamento:
+  #### - Big Data Fundamentos 3.0
   &nbsp;
 
 #### Sou fã da série Final Fantasy, da Hoyoverse, do Yu-Gi-OH! e mais um monte de jogos
